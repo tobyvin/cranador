@@ -1,0 +1,104 @@
+{
+  "name": "cranador",
+  "title": "Cranador",
+  "description": "<p>The time of dragons as deities is coming to an end on the Island nation of Cranador. The Dragons predate the humanoids on this place, the island itself can only be assumed as a few thousand years old and humanoid occupation of this place is only 400 years. Your group has found themselves in the middle of a war torn and political  Island where these events are taking place. The people here are known to worship Dragons as gods, and a small group worships a monotheistic god, Oeus, as their one true God. There is a struggle politically and ideologically among the people in this island continent that is at a boiling point as you try to sort things out. Each Dragon has its own dominion where its resides and its followers do as well. The followers of Oeus are slowly gaining traction in these specific areas causing counter culture uproar. There is heavy migration to this island nation due to turmoil, treasure, and adventure.</p>",
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.0.0",
+  "compatibleCoreVersion": "1.0.0",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "packs": [
+    {
+      "label": "Idyllren Maps",
+      "entity": "Scene",
+      "name": "idyllren-maps",
+      "path": "packs/idyllren-maps.db",
+      "system": "dnd5e",
+      "package": "world",
+      "absPath": "D:\\DnD\\FoundryVTT\\Data\\worlds\\cranador\\packs\\idyllren-maps.db"
+    },
+    {
+      "label": "Items (DDB)",
+      "entity": "Item",
+      "name": "items-ddb",
+      "path": "packs/items-ddb.db",
+      "system": "dnd5e",
+      "package": "world",
+      "absPath": "D:\\DnD\\FoundryVTT\\Data\\worlds\\cranador\\packs\\items-ddb.db"
+    },
+    {
+      "label": "Features (DDB)",
+      "entity": "Item",
+      "name": "features-ddb",
+      "path": "packs/features-ddb.db",
+      "system": "dnd5e",
+      "package": "world",
+      "absPath": "D:\\DnD\\FoundryVTT\\Data\\worlds\\cranador\\packs\\features-ddb.db"
+    },
+    {
+      "label": "Monster Features (DDB)",
+      "entity": "Item",
+      "name": "monster-features-ddb",
+      "path": "packs/monster-features-ddb.db",
+      "system": "dnd5e",
+      "package": "world",
+      "absPath": "D:\\DnD\\FoundryVTT\\Data\\worlds\\cranador\\packs\\monster-features-ddb.db"
+    },
+    {
+      "label": "Spells (DDB)",
+      "entity": "Item",
+      "name": "spells-ddb",
+      "path": "packs/spells-ddb.db",
+      "system": "dnd5e",
+      "package": "world",
+      "absPath": "D:\\DnD\\FoundryVTT\\Data\\worlds\\cranador\\packs\\spells-ddb.db"
+    },
+    {
+      "label": "Monsters (DDB)",
+      "entity": "Actor",
+      "name": "monsters-ddb",
+      "path": "packs/monsters-ddb.db",
+      "system": "dnd5e",
+      "package": "world",
+      "absPath": "D:\\DnD\\FoundryVTT\\Data\\worlds\\cranador\\packs\\monsters-ddb.db"
+    },
+    {
+      "label": "Classes (Homebrew)",
+      "entity": "Item",
+      "name": "classes-homebrew",
+      "path": "packs/classes-homebrew.db",
+      "system": "dnd5e",
+      "package": "world",
+      "absPath": "/home/pi/foundrydata/Data/worlds/cranador/packs/classes-homebrew.db"
+    },
+    {
+      "label": "Class Features (Homebrew)",
+      "entity": "Item",
+      "name": "class-features-homebrew",
+      "path": "packs/class-features-homebrew.db",
+      "system": "dnd5e",
+      "package": "world",
+      "absPath": "/home/pi/foundrydata/Data/worlds/cranador/packs/class-features-homebrew.db"
+    }
+  ],
+  "languages": [],
+  "authors": [],
+  "keywords": [],
+  "socket": false,
+  "url": "",
+  "manifest": "",
+  "download": "",
+  "license": "",
+  "readme": "",
+  "bugs": "",
+  "changelog": "",
+  "background": "",
+  "system": "dnd5e",
+  "coreVersion": "0.7.5",
+  "systemVersion": 0.98,
+  "nextSession": null,
+  "availability": 0,
+  "unavailable": false,
+  "id": "cranador"
+}
