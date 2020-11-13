@@ -8,7 +8,6 @@
 {"_id":"MrFCZu1fmP4pGnYt","name":"Class Features","type":"Item","sort":100000,"flags":{},"parent":null,"sorting":"a","color":""}
 {"name":"_fql_quests","type":"JournalEntry","sort":null,"flags":{},"parent":null,"sorting":"a","_id":"QU9TxTxw2jJ3EpsK"}
 {"_id":"cSofhuON9ILZUVfr","name":"Ninja Feats","type":"Item","sort":200000,"flags":{},"parent":"MrFCZu1fmP4pGnYt","sorting":"a","color":""}
-{"_id":"dwBDh7uIVE9z698z","name":"Secret","type":"Actor","sort":400000,"flags":{},"parent":null,"sorting":"a","color":""}
 {"_id":"eEgTpEq7QBoDjuzC","name":"Path of Exalted","type":"Item","sort":300000,"flags":{},"parent":"MrFCZu1fmP4pGnYt","sorting":"a","color":""}
 {"_id":"iVqfmrgxV2qwrdfX","name":"PC","type":"Actor","sort":100000,"flags":{},"parent":null,"sorting":"a","color":""}
 {"name":"6th Level Jutsu","type":"Item","sort":700000,"flags":{},"parent":"MrFCZu1fmP4pGnYt","sorting":"a","color":"","_id":"nGJ0PQD5DAv5Lxg2"}
@@ -16,4 +15,3 @@
 {"name":"8th level Jutsu","type":"Item","sort":800000,"flags":{},"parent":"MrFCZu1fmP4pGnYt","sorting":"a","color":"","_id":"tJtjJU5lEGB5kfFp"}
 {"name":"4th level Jutsu","type":"Item","sort":600000,"flags":{},"parent":"MrFCZu1fmP4pGnYt","sorting":"a","color":"","_id":"ud5rqGGW0Vjwx5pv"}
 {"name":"12th Level Jutsu","type":"Item","sort":900000,"flags":{},"parent":"MrFCZu1fmP4pGnYt","sorting":"a","color":"","_id":"xHZZUQKg0UaeMCFq"}
-{"$$deleted":true,"_id":"dwBDh7uIVE9z698z"}
