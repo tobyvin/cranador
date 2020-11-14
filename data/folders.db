@@ -15,3 +15,4 @@
 {"name":"8th level Jutsu","type":"Item","sort":800000,"flags":{},"parent":"MrFCZu1fmP4pGnYt","sorting":"a","color":"","_id":"tJtjJU5lEGB5kfFp"}
 {"name":"4th level Jutsu","type":"Item","sort":600000,"flags":{},"parent":"MrFCZu1fmP4pGnYt","sorting":"a","color":"","_id":"ud5rqGGW0Vjwx5pv"}
 {"name":"12th Level Jutsu","type":"Item","sort":900000,"flags":{},"parent":"MrFCZu1fmP4pGnYt","sorting":"a","color":"","_id":"xHZZUQKg0UaeMCFq"}
+{"_id":"ofbycQCzNtd4hfdq","name":"Inactive","type":"Actor","sort":400000,"flags":{},"parent":null,"sorting":"a","color":""}
