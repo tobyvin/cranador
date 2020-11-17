@@ -10,15 +10,6 @@
   "styles": [],
   "packs": [
     {
-      "label": "Idyllren Maps",
-      "entity": "Scene",
-      "name": "idyllren-maps",
-      "path": "packs/idyllren-maps.db",
-      "system": "dnd5e",
-      "package": "world",
-      "absPath": "D:\\DnD\\FoundryVTT\\Data\\worlds\\cranador\\packs\\idyllren-maps.db"
-    },
-    {
       "label": "Items (DDB)",
       "entity": "Item",
       "name": "items-ddb",
