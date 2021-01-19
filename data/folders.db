@@ -30,6 +30,7 @@
 {"name":"6th Level Jutsu","type":"Item","sort":700000,"flags":{},"parent":"MrFCZu1fmP4pGnYt","sorting":"a","color":"","_id":"nGJ0PQD5DAv5Lxg2"}
 {"_id":"oQgNkDFGrYwlkeHE","name":"Shahourgia","type":"Scene","sort":800000,"flags":{},"parent":"vgx71wJy8Y77qUH2","sorting":"a","color":""}
 {"_id":"ofbycQCzNtd4hfdq","name":"Inactive","type":"Actor","sort":300000,"flags":{},"parent":"iVqfmrgxV2qwrdfX","sorting":"a","color":""}
+{"name":"Tables","type":"RollTable","sort":null,"flags":{},"parent":null,"sorting":"a","_id":"t54HY6IfrdO0Cm7h"}
 {"name":"8th level Jutsu","type":"Item","sort":800000,"flags":{},"parent":"MrFCZu1fmP4pGnYt","sorting":"a","color":"","_id":"tJtjJU5lEGB5kfFp"}
 {"name":"4th level Jutsu","type":"Item","sort":600000,"flags":{},"parent":"MrFCZu1fmP4pGnYt","sorting":"a","color":"","_id":"ud5rqGGW0Vjwx5pv"}
 {"_id":"vaZEEMAYq8DMhD4J","name":"Diocese","type":"Scene","sort":900000,"flags":{},"parent":"vgx71wJy8Y77qUH2","sorting":"a","color":""}

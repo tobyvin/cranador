@@ -86,10 +86,10 @@
   "changelog": "",
   "background": "",
   "system": "dnd5e",
-  "coreVersion": "0.7.7",
-  "systemVersion": 0.98,
+  "coreVersion": "0.7.9",
+  "systemVersion": "1.2.1",
   "nextSession": null,
-  "availability": 1,
+  "availability": 0,
   "unavailable": false,
   "id": "cranador"
 }
